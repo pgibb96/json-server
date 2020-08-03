@@ -1,15 +1,33 @@
 {
-  "people" : [
-    {"name": "peter gibb"},
-    {"age": 24},
-    {"interests": ["tennis", "soccer", "programming"]},
+  "people": [
+    {
+      "name": "peter gibb",
+      "age": 24,
+      "interests": [
+        "tennis",
+        "soccer",
+        "programming"
+      ]
+    },
 
-    {"name": "sophie volpe"},
-    {"age": 24},
-    {"interests": ["bravo", "volunteering", "dogs"]},
+    {
+      "name": "sophie volpe",
+      "age": 24,
+      "interests": [
+        "bravo",
+        "volunteering",
+        "dogs"
+      ]
+    },
 
-    {"name": "chris wong"},
-    {"age": 24},
-    {"interests": ["programming", "flying", "bunnies"]},
+    {
+      "name": "chris wong",
+      "age": 24,
+      "interests": [
+        "programming",
+        "flying",
+        "bunnies"
+      ]
+    }
   ]
 }
