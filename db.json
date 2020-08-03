@@ -1,9 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "people" : [
+    {"name": "peter gibb"},
+    {"age": 24},
+    {"interests": ["tennis", "soccer", "programming"]},
+
+    {"name": "sophie volpe"},
+    {"age": 24},
+    {"interests": ["bravo", "volunteering", "dogs"]},
+
+    {"name": "chris wong"},
+    {"age": 24},
+    {"interests": ["programming", "flying", "bunnies"]},
+  ]
 }
